@@ -4,12 +4,8 @@ A full-stack Hospital Management System built using React Native (Expo) and Node
 Live Project Links
 Web App (Production)
 
-
-Backend API (Live Server)
-
-
 Backend Source Code (GitHub)
-
+https://github.com/prathmesh1421/hospital-backend
 
 Backend Hosted (Replit)
 https://replit.com/@prathmesh6001/Day-40
@@ -41,6 +37,8 @@ User Login
 Appointment Booking System
 Patient Management
 Doctor Dashboard
+Pharmacy Dashboard
+profile Dashboard
 REST API Integration
 Cross-platform (Web + Mobile)
 Project Preview
