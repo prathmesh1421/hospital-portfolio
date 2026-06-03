@@ -20,11 +20,6 @@ Used for Play Store / production release
 APK File
 https://expo.dev/accounts/prathamesh1421/projects/hospital-app/builds/d8ee7155-6a81-48fe-8f56-92746e3cb90b
 
-🎥 Project Demo Video
-Watch full demo of Hospital Management System:
-
-🔗 https://youtube.com/shorts/SOiTN4DWDyI?feature=share
-
 Tech Stack
 React Native (Expo)
 Node.js + Express
